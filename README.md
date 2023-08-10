@@ -1,5 +1,4 @@
 
-```markdown
 # Budget API
 
 A simple API to manage budget items and keep track of your balance.
@@ -66,4 +65,4 @@ A simple API to manage budget items and keep track of your balance.
 
 *Created by Alexander Mayer
 
-```
+
