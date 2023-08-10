@@ -1,0 +1,24 @@
+{
+  "name": "budgettrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexM2098/BudgetTrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexM2098/BudgetTrack/issues"
+  },
+  "homepage": "https://github.com/AlexM2098/BudgetTrack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.2"
+  }
+}
